@@ -13,8 +13,6 @@ Focused on advanced Minecraft Bedrock architecture and automation workflows.
 
 ---
 
----
-
 ## Current Focus
 
 - MMORPG-style project in Minecraft Bedrock  

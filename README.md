@@ -20,6 +20,15 @@ Focused on advanced Minecraft Bedrock architecture and automation workflows.
 
 ---
 
+### Fun Facts
+
+- I have been developing for 5 years 
+- I have been making addons for 2 years 
+- I enjoy optimizing  
+- I love mmorpgs
+
+---
+
 ### Stack
 
 <p align="center">
@@ -41,17 +50,6 @@ Focused on advanced Minecraft Bedrock architecture and automation workflows.
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=compactNull&theme=github-dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
-
----
-
-### Fun Facts
-
-- I have been developing for 5 years 
-- I have been making addons for 2 years 
-- I enjoy optimizing  
-- I love mmorpgs
-
----
 
 <div align="center">
 

@@ -47,7 +47,7 @@ Focused on advanced Minecraft Bedrock architecture and automation workflows.
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=compactNull&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=compactNull&theme=github-dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=ff4d4d&currStreakLabel=58A6FF" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=compactNull&theme=github-dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=ff4d4d&fire=ff4d4d&currStreakLabel=58A6FF" />
 
 </div>
 
